@@ -1,6 +1,6 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=king-of-flame&label=Profile%20views&color=0e75b6&style=flat" alt="king-of-flame" /> </p>
+<p align="left"> <img src="https://i.ibb.co/RvPRfMh/IMG-20221119-131953-0767.jpg" alt="king-of-flame" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=king-of-flame" alt="king-of-flame" /></a> </p>
 
