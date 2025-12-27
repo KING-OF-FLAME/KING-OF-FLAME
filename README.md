@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Yash Raj</h1>
-<h3 align="center">Indie Developer • AI × IoT Engineer • System Builder</h3>
+<h3 align="center">Indie Developer | AI • IoT • System Builder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+AI-powered+Systems;Crafting+Smart+IoT+Solutions;Turning+Ideas+Into+Scalable+Products;Always+Learning+%26+Building" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+AI+Powered+Systems;Creating+Smart+IoT+Solutions;Turning+Ideas+Into+Products;Always+Learning+%26+Building" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://i.ibb.co/JRzs2rqj/494955232-17989459916810789-3567602734850394268-n-1.jpg" 
-       width="200" 
+  <img src="https://i.ibb.co/JRzs2rqj/494955232-17989459916810789-3567602734850394268-n-1.jpg"
+       width="200"
        style="border-radius:50%; border:4px solid #38BDF8; box-shadow:0px 0px 25px rgba(56,189,248,0.6);" />
 </p>
 
@@ -19,18 +19,18 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me  
 
-💡 Passionate **Indie Developer** building intelligent systems that merge **AI, IoT & scalable software**  
-🧠 Obsessed with automation, performance & real-world impact  
-🛠️ I design, build & deploy **end-to-end tech products**  
-🌍 Always exploring new tech & startup ideas  
+- 🔥 Passionate **Indie Developer** from India  
+- 🤖 Building **AI-powered tools, IoT systems & automation platforms**  
+- 💡 Love solving real-world problems with technology  
+- 🚀 Focused on scalability, performance & innovation  
 
-📩 Reach me at: **mr.yashraj5233@gmail.com**
+📫 Reach me at: **mr.yashraj5233@gmail.com**
 
 ---
 
-## 🧠 Tech Arsenal
+## 🧠 Tech Stack
 
 ### 🚀 Languages & Frameworks
 <p>
@@ -42,7 +42,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45"/>
 </p>
 
-### ☁️ Backend / Cloud / Databases
+### ☁️ Cloud • Backend • Database
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45"/>
@@ -59,20 +59,20 @@
 
 ---
 
-## 📊 GitHub Stats (Live)
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=king-of-flame&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=king-of-flame&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=king-of-flame&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=king-of-flame&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=king-of-flame&layout=compact&theme=tokyonight&hide_border=true" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=king-of-flame&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
 </p>
 
 ---
 
-## 🏆 Achievements & Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=king-of-flame&theme=tokyonight&no-frame=true&row=1&margin-w=15"/>
@@ -93,4 +93,4 @@
 
 ---
 
-⭐ _If you like my work, consider starring my repositories — it motivates me a lot!_
+⭐ *If you like my work, consider starring my repositories — it motivates me a lot!*
