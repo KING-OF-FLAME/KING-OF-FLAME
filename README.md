@@ -35,7 +35,7 @@
 
 I am a results-driven professional with **4 years of experience** in Digital Marketing, **IoT Development**, and **Data Analytics**. My journey is defined by a passion for leveraging technology to create impactful solutions. As the **Founder and CEO of Grow On Media**, I successfully scaled a digital marketing agency, increasing client engagement by 40% and generating 6-figure revenue.
 
-My technical expertise lies in **Python programming, Machine Learning, and developing IoT applications**, which I have applied in various projects, including winning national-level competitions. I am committed to continuous learning and hold a **Bachelor of Technology in Artificial Intelligence and Data Science** with a **CGPA of 9.10/10.0**.
+My technical expertise lies in **Python programming, Machine Learning, and developing IoT applications**, which I have applied in various projects, including winning national-level competitions. 
 
 ---
 
