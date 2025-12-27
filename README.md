@@ -1,76 +1,92 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Yash Raj</h1>
+<h3 align="center">Indie Developer | AI × IoT Engineer | System Builder 🚀</h3>
 
-<table border="0" width="100%">
-    <tr>
-        <td width="65%" valign="center">
-            <h1>Hi there 👋, I'm Yash Raj.</h1>
-            <h3>A Passionate Indie Developer from India 🇮🇳</h3>
-            <p>
-               I engineer innovative solutions bridging hardware, software, and AI. Always exploring the bleeding edge to craft tools that solve real-world problems.
-            </p>
-             <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3F51B5&width=435&lines=Building+AI-Integrated+Hardware;Developing+Scalable+APIs;Crafting+IoT+Solutions;Exploring+New+Tech+Stacks" alt="Typing Animation" /></a>
-            <br/>
-            <img src="https://komarev.com/ghpvc/?username=king-of-flame&label=Profile%20Views&color=0e75b6&style=flat-square" alt="king-of-flame" />
-        </td>
-        <td width="35%" align="center">
-            <img src="https://i.ibb.co/JRzs2rqj/494955232-17989459916810789-3567602734850394268-n-1.jpg" width="220" height="220" style="border-radius: 50%; box-shadow: 0px 0px 20px rgba(0,0,0,0.2); border: 4px solid #ffffff;" alt="Yash Raj Profile Photo">
-        </td>
-    </tr>
-</table>
-
-<br/>
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=king-of-flame&theme=flat&no-frame=true&margin-w=15" alt="king-of-flame trophies" />
-</a>
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=king-of-flame&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-- 👯 I’m actively looking to collaborate on **AI-integrated hardware & IoT projects**.
-- 🤝 I’m seeking contributions for my **API-based Utility Tools**.
-- 💬 Ask me about **Android Development, IoT (Arduino), and PHP Backend systems**.
-- 📫 Reach me directly at **mr.yashraj5233@gmail.com**.
+- 🔥 Passionate **Indie Developer** building real-world AI + IoT solutions  
+- 🤖 Working on **AI-powered automation, APIs & smart hardware systems**  
+- 🧠 Love building **scalable backend systems & developer tools**  
+- 🌍 Exploring **cutting-edge tech stacks & open-source innovation**  
+- 📬 Reach me: **mr.yashraj5233@gmail.com**
 
 ---
 
-### 🌐 Connect with Me
+## 🧠 What I’m Working On
 
-<div align="left">
-  <a href="https://linkedin.com/in/yash-developer" target="blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="yash-developer" />
+- AI-based automation tools  
+- Smart IoT systems (ESP32, Raspberry Pi, Sensors)  
+- API-based SaaS platforms  
+- Scalable backend architectures  
+
+---
+
+## 🧰 Tech Stack
+
+### 🚀 Languages & Frameworks
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45"/>
+</p>
+
+### ☁️ Backend & Cloud
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="45"/>
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="45"/>
+</p>
+
+### 🔧 Hardware & AI
+<p>
+  <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" width="45"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=king-of-flame&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=king-of-flame&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=king-of-flame&layout=compact&theme=tokyonight&hide_border=true" width="45%"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=king-of-flame&theme=tokyonight&no-frame=true&row=1&margin-w=15"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/yash-developer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;
-  <a href="https://instagram.com/yash.developer" target="blank">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="yash.developer" />
+  <a href="https://instagram.com/yash.developer">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-</div>
+</p>
 
 ---
 
-### 🛠️ Languages and Tools
-
-A diverse stack across mobile, web, and hardware engineering.
-
-| Mobile & AI/ML | Backend & Cloud | Databases | Frontend & Web |
-| :---: | :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40"/> Android | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/> PHP | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/> MySQL | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/> React |
-| <img src="https://reactnative.dev/img/header_logo.svg" width="40"/> React Native | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/> Node.js | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/> MongoDB | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/> HTML5 |
-| <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/> TensorFlow | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> Python | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/> PostgreSQL | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/> CSS3 |
-| <img src="https://www.arduino.cc/svg/arduino-logo.svg" width="35"/> Arduino | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/> AWS | <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/> Firebase | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/> Bootstrap |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/> C++ | <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/> GCP | <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40"/> MSSQL | |
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=king-of-flame&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="king-of-flame's Stats" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=king-of-flame&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="king-of-flame's Streak" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=king-of-flame&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="king-of-flame's Top Languages" />
-</div>
+⭐ **If you like my work, consider giving a star to my repositories!**
