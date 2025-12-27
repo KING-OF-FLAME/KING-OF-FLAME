@@ -9,9 +9,9 @@
     <tr>
       <td width="60%" valign="center" style="padding-right: 20px;">
         <h1>Hi there 👋, I'm Yash Raj.</h1>
-        [cite_start]<h3>A Results-Driven AI & Data Science Professional from India 🇮🇳 [cite: 1, 2, 6]</h3>
+        <h3>A Results-Driven AI & Data Science Professional from India 🇮🇳</h3>
         <p style="font-size: 1.1em; color: #c9d1d9; line-height: 1.6;">
-           [cite_start]I am an <b>AI Engineer, Data Scientist, and Entrepreneur</b> with a proven track record of developing innovative AI-powered solutions[cite: 6, 9]. [cite_start]With expertise in Python programming, machine learning, and IoT, I build intelligent systems that solve real-world problems and drive business growth[cite: 6, 7].
+           I am an <b>AI Engineer, Data Scientist, and Entrepreneur</b> with a proven track record of developing innovative AI-powered solutions. With expertise in Python programming, machine learning, and IoT, I build intelligent systems that solve real-world problems and drive business growth.
         </p>
         <a href="https://git.io/typing-svg">
           <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=58A6FF&width=600&lines=Developing+Innovative+AI+Solutions;Building+Scalable+Data-Driven+Products;Integrating+IoT+for+Smart+Automation;Leading+Teams+to+Success;Winning+National-Level+Competitions" alt="Typing Animation" />
@@ -33,9 +33,9 @@
 
 ### 🚀 Professional Summary
 
-[cite_start]I am a results-driven professional with **4 years of experience** in Digital Marketing, **IoT Development**, and **Data Analytics**[cite: 6]. My journey is defined by a passion for leveraging technology to create impactful solutions. [cite_start]As the **Founder and CEO of Grow On Media**, I successfully scaled a digital marketing agency, increasing client engagement by 40% and generating 6-figure revenue[cite: 8, 15, 17, 18, 20].
+I am a results-driven professional with **4 years of experience** in Digital Marketing, **IoT Development**, and **Data Analytics**. My journey is defined by a passion for leveraging technology to create impactful solutions. As the **Founder and CEO of Grow On Media**, I successfully scaled a digital marketing agency, increasing client engagement by 40% and generating 6-figure revenue.
 
-[cite_start]My technical expertise lies in **Python programming, Machine Learning, and developing IoT applications**, which I have applied in various projects, including winning national-level competitions[cite: 7, 9, 51]. [cite_start]I am committed to continuous learning and hold a **Bachelor of Technology in Artificial Intelligence and Data Science** with a **CGPA of 9.10/10.0**[cite: 13, 14].
+My technical expertise lies in **Python programming, Machine Learning, and developing IoT applications**, which I have applied in various projects, including winning national-level competitions. I am committed to continuous learning and hold a **Bachelor of Technology in Artificial Intelligence and Data Science** with a **CGPA of 9.10/10.0**.
 
 ---
 
@@ -49,17 +49,17 @@ My work revolves around creating intelligent systems that bridge the gap between
       <td width="33%" align="center" style="padding: 20px; border: 1px solid #30363d; border-radius: 15px; background-color: #0d1117;">
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="AI & Machine Learning" width="60" /><br/>
         <h3 style="margin-bottom: 10px;">AI & Machine Learning</h3>
-        [cite_start]<p style="font-size: 0.95em; color: #8b949e;">Developing and implementing machine learning algorithms for predictive analytics and building NLP-based solutions[cite: 22, 31].</p>
+        <p style="font-size: 0.95em; color: #8b949e;">Developing and implementing machine learning algorithms for predictive analytics and building NLP-based solutions.</p>
       </td>
       <td width="33%" align="center" style="padding: 20px; border: 1px solid #30363d; border-radius: 15px; background-color: #0d1117;">
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="IoT & Smart Automation" width="60" /><br/>
         <h3 style="margin-bottom: 10px;">IoT & Smart Automation</h3>
-        [cite_start]<p style="font-size: 0.95em; color: #8b949e;">Engineering automated systems using Raspberry Pi, ESP32, and Arduino for real-time monitoring and control[cite: 33, 35].</p>
+        <p style="font-size: 0.95em; color: #8b949e;">Engineering automated systems using Raspberry Pi, ESP32, and Arduino for real-time monitoring and control.</p>
       </td>
       <td width="33%" align="center" style="padding: 20px; border: 1px solid #30363d; border-radius: 15px; background-color: #0d1117;">
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Data Science & Analytics" width="60" /><br/>
         <h3 style="margin-bottom: 10px;">Data Science & Analytics</h3>
-        [cite_start]<p style="font-size: 0.95em; color: #8b949e;">Conducting exploratory data analysis and creating interactive data visualization dashboards to identify trends and insights[cite: 23, 24].</p>
+        <p style="font-size: 0.95em; color: #8b949e;">Conducting exploratory data analysis and creating interactive data visualization dashboards to identify trends and insights.</p>
       </td>
     </tr>
   </table>
@@ -73,10 +73,10 @@ I possess a diverse and robust set of technical skills that enable me to build e
 
 | **Category** | **Skills** |
 | :--- | :--- |
-| **Programming Languages** | [cite_start]Python, SQL, Java, JavaScript, PHP, HTML, CSS [cite: 11] |
-| **AI & Data Science** | [cite_start]Machine Learning, Data Analytics, Natural Language Processing (NLP), Data Visualization [cite: 12] |
-| **IoT & Hardware** | [cite_start]Raspberry Pi, ESP32, Arduino, Sensor Integration, Automation Systems [cite: 12] |
-| **Tools & Platforms** | [cite_start]Git, GitHub, TensorFlow, Data Analysis Libraries, Cloud Computing [cite: 12] |
+| **Programming Languages** | Python, SQL, Java, JavaScript, PHP, HTML, CSS |
+| **AI & Data Science** | Machine Learning, Data Analytics, Natural Language Processing (NLP), Data Visualization |
+| **IoT & Hardware** | Raspberry Pi, ESP32, Arduino, Sensor Integration, Automation Systems |
+| **Tools & Platforms** | Git, GitHub, TensorFlow, Data Analysis Libraries, Cloud Computing |
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -99,20 +99,20 @@ I possess a diverse and robust set of technical skills that enable me to build e
 
 My portfolio showcases my ability to apply theoretical knowledge to practical problems, resulting in award-winning and impactful solutions.
 
-* [cite_start]**National Level Ideathon Winner** at Shalaka Foundations Keystone School of Engineering, Pune[cite: 51].
+* **National Level Ideathon Winner** at Shalaka Foundations Keystone School of Engineering, Pune.
 
 #### **Featured Projects:**
 
-* **Agripulse AI Assistant for Farmers (2025):** Developed a multilingual AI assistant using NLP to provide real-time agricultural advisory to 100+ farmers. [cite_start]Implemented machine learning models for crop recommendation and disease prediction with 85% accuracy. [cite: 29, 31, 32]
-    [cite_start]<br/> [<img src="https://img.shields.io/badge/YouTube-Video-red?style=flat-square&logo=youtube" />](youtube.com/watch?v=zlERmXxJt5M) [cite: 30]
+* **Agripulse AI Assistant for Farmers (2025):** Developed a multilingual AI assistant using NLP to provide real-time agricultural advisory to 100+ farmers. Implemented machine learning models for crop recommendation and disease prediction with 85% accuracy.
+    <br/> [<img src="https://img.shields.io/badge/YouTube-Video-red?style=flat-square&logo=youtube" />](youtube.com/watch?v=zlERmXxJt5M)
 
-* [cite_start]**IoT-Based Plant Health Monitoring System (2024):** Engineered an automated irrigation system using Raspberry Pi, DHT11, and soil moisture sensors, reducing water consumption by 35% through intelligent monitoring. [cite: 33, 34]
+* **IoT-Based Plant Health Monitoring System (2024):** Engineered an automated irrigation system using Raspberry Pi, DHT11, and soil moisture sensors, reducing water consumption by 35% through intelligent monitoring.
 
-* [cite_start]**Fire and Smoke Detection System (2025):** Built a real-time safety monitoring system using ESP32 with Telegram alert integration for instant notifications. [cite: 35]
-    [cite_start]<br/> [<img src="https://img.shields.io/badge/YouTube-Video-red?style=flat-square&logo=youtube" />](youtube.com/watch?v=6aWaITIVS-0) [cite: 34]
+* **Fire and Smoke Detection System (2025):** Built a real-time safety monitoring system using ESP32 with Telegram alert integration for instant notifications.
+    <br/> [<img src="https://img.shields.io/badge/YouTube-Video-red?style=flat-square&logo=youtube" />](youtube.com/watch?v=6aWaITIVS-0)
 
-* [cite_start]**ATS Resume Scoring Tool (2025):** Developed an NLP-based tool to optimize resumes for Applicant Tracking Systems, helping 500+ job seekers. [cite: 38, 40]
-    [cite_start]<br/> [<img src="https://img.shields.io/badge/GitHub-Repo-blue?style=flat-square&logo=github" />](github.com/KING-OF-FLAME/resume-score) [cite: 39]
+* **ATS Resume Scoring Tool (2025):** Developed an NLP-based tool to optimize resumes for Applicant Tracking Systems, helping 500+ job seekers.
+    <br/> [<img src="https://img.shields.io/badge/GitHub-Repo-blue?style=flat-square&logo=github" />](github.com/KING-OF-FLAME/resume-score)
 
 ---
 
@@ -120,11 +120,11 @@ My portfolio showcases my ability to apply theoretical knowledge to practical pr
 
 I am dedicated to staying at the forefront of technology through continuous learning.
 
-* [cite_start]**Introduction to Data Science (2024)** [cite: 46]
-* [cite_start]**Programming using Java (2024)** [cite: 46]
-* [cite_start]**Arduino Based Automation (2023)** [cite: 49]
-* [cite_start]**DROP Certified Security Course (2021)** [cite: 50]
-* [cite_start]**Fundamentals of Information Security (2021)** [cite: 47]
+* **Introduction to Data Science (2024)**
+* **Programming using Java (2024)**
+* **Arduino Based Automation (2023)**
+* **DROP Certified Security Course (2021)**
+* **Fundamentals of Information Security (2021)**
 
 ---
 
@@ -134,15 +134,19 @@ I am always open to collaborating on exciting projects in the fields of AI, IoT,
 
 <div align="center">
   <a href="https://linkedin.com/in/yash-developer" target="_blank">
-    [cite_start]<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> [cite: 4]
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp; &nbsp;
+  <a href="https://instagram.com/yash.developer" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   &nbsp; &nbsp;
   <a href="mailto:mr.yashraj5233@gmail.com">
-    [cite_start]<img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> [cite: 2]
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp; &nbsp;
   <a href="https://iamyashraj.com" target="_blank">
-    [cite_start]<img src="https://img.shields.io/badge/Portfolio-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="Portfolio" /> [cite: 4]
+    <img src="https://img.shields.io/badge/Portfolio-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="Portfolio" />
   </a>
 </div>
 
