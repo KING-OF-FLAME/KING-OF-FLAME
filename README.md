@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=250&section=header&text=Yash%20Raj&fontSize=80&fontColor=ffffff&desc=Entrepreneur%20%7C%20Building%20AI%20Products%20%26%20Smart%20Automation%20Systems&descAlignY=70&descAlign=50" alt="Yash Raj Banner" width="100%" />
-</div>
 
 <br />
 
