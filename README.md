@@ -103,16 +103,14 @@ My portfolio showcases my ability to apply theoretical knowledge to practical pr
 
 #### **Featured Projects:**
 
-* **Agripulse AI Assistant for Farmers (2025):** Developed a multilingual AI assistant using NLP to provide real-time agricultural advisory to 100+ farmers. Implemented machine learning models for crop recommendation and disease prediction with 85% accuracy.
-    <br/> [<img src="https://img.shields.io/badge/YouTube-Video-red?style=flat-square&logo=youtube" />](youtube.com/watch?v=zlERmXxJt5M)
+* **URL Metadata & Preview API (2025):** Engineered a high-performance PHP API that extracts OpenGraph tags, SEO details, and technical metrics (latency, page size) from any URL in under 800ms. Optimized for shared hosting with custom cURL timeouts and smart fallbacks.
+    <br/> [<img src="https://img.shields.io/badge/GitHub-Repo-blue?style=flat-square&logo=github" />](https://github.com/KING-OF-FLAME/url-metadata-api)
 
-* **IoT-Based Plant Health Monitoring System (2024):** Engineered an automated irrigation system using Raspberry Pi, DHT11, and soil moisture sensors, reducing water consumption by 35% through intelligent monitoring.
+* **Email Deliverability Intelligence API (2025):** Built a comprehensive email analysis engine that evaluates domain infrastructure (SPF, DKIM, DMARC) and reputation signals to predict inbox placement. Features a custom weighted risk-scoring algorithm and disposable email detection.
+    <br/> [<img src="https://img.shields.io/badge/GitHub-Repo-blue?style=flat-square&logo=github" />](https://github.com/KING-OF-FLAME/email-deliverability-intelligence-api)
 
-* **Fire and Smoke Detection System (2025):** Built a real-time safety monitoring system using ESP32 with Telegram alert integration for instant notifications.
-    <br/> [<img src="https://img.shields.io/badge/YouTube-Video-red?style=flat-square&logo=youtube" />](youtube.com/watch?v=6aWaITIVS-0)
-
-* **ATS Resume Scoring Tool (2025):** Developed an NLP-based tool to optimize resumes for Applicant Tracking Systems, helping 500+ job seekers.
-    <br/> [<img src="https://img.shields.io/badge/GitHub-Repo-blue?style=flat-square&logo=github" />](github.com/KING-OF-FLAME/resume-score)
+* **Automated Keyword Suggestions Tool (2025):** Developed an SEO automation tool that aggregates real-time trending search queries from Google and YouTube Autocomplete. Designed for content creators to identify high-volume keywords with zero manual effort.
+    <br/> [<img src="https://img.shields.io/badge/GitHub-Repo-blue?style=flat-square&logo=github" />](https://github.com/KING-OF-FLAME/keyword_suggestions_tool)
 
 ---
 
