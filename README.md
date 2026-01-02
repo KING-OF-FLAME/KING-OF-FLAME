@@ -103,6 +103,9 @@ My portfolio showcases my ability to apply theoretical knowledge to practical pr
 
 #### **Featured Projects:**
 
+* **The Jury: The AI Courtroom (2026):** Designed and built an adversarial multi-agent AI consensus engine that forces LLMs to debate, cross-examine, and judge each other to reduce hallucinations and improve answer reliability. Features a Proposer–Critic–Judge architecture, real-time “God Mode” dashboard, persistent MySQL memory for verdict precedents, and exact API cost auditing. Built with FastAPI, Streamlit, and OpenRouter.
+    <br/> [<img src="https://img.shields.io/badge/GitHub-Repo-blue?style=flat-square&logo=github" />](https://github.com/KING-OF-FLAME/the-jury-ai-courtroom)
+
 * **URL Metadata & Preview API (2025):** Engineered a high-performance PHP API that extracts OpenGraph tags, SEO details, and technical metrics (latency, page size) from any URL in under 800ms. Optimized for shared hosting with custom cURL timeouts and smart fallbacks.
     <br/> [<img src="https://img.shields.io/badge/GitHub-Repo-blue?style=flat-square&logo=github" />](https://github.com/KING-OF-FLAME/url-metadata-api)
 
@@ -111,6 +114,7 @@ My portfolio showcases my ability to apply theoretical knowledge to practical pr
 
 * **Automated Keyword Suggestions Tool (2025):** Developed an SEO automation tool that aggregates real-time trending search queries from Google and YouTube Autocomplete. Designed for content creators to identify high-volume keywords with zero manual effort.
     <br/> [<img src="https://img.shields.io/badge/GitHub-Repo-blue?style=flat-square&logo=github" />](https://github.com/KING-OF-FLAME/keyword_suggestions_tool)
+
 
 ---
 
