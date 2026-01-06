@@ -31,7 +31,7 @@
 
 ---
 
-### 🚀 Professional Summary
+### 🚀 Summary
 
 I am a results-driven professional with **5 years of experience** in Digital Marketing, **4 years of experience in Web Development**, and **Data Analytics**. My journey is defined by a passion for leveraging technology to create impactful solutions. As the **Founder and CEO of Grow On Media**, I successfully scaled a digital marketing agency, increasing client engagement by 40% and generating 6-figure revenue.
 
