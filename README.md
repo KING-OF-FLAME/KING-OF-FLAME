@@ -8,7 +8,7 @@
   <table border="0" width="100%" style="border-collapse: collapse;">
     <tr>
       <td width="60%" valign="center" style="padding-right: 20px;">
-        <h1>Hi there 👋, I'm Yash Raj.</h1>
+        <h1>Hi there , I'm Yash Raj.</h1>
         <h3>A Results-Driven AI & Data Science Professional from India 🇮🇳</h3>
         <p style="font-size: 1.1em; color: #c9d1d9; line-height: 1.6;">
            I am an <b>AI Engineer, Data Scientist, and Entrepreneur</b> with a proven track record of developing innovative AI-powered solutions. With expertise in Python programming, machine learning, and IoT, I build intelligent systems that solve real-world problems and drive business growth.
