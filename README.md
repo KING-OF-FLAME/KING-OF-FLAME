@@ -1,155 +1,332 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=250&section=header&text=Yash%20Raj&fontSize=80&fontColor=ffffff&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Entrepreneur&descAlignY=70&descAlign=50" alt="Yash Raj Banner" width="100%" />
+
+🐍 YASH RAJ
+
+AI Engineer • Data Scientist • Builder • Founder
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0b0f0c&fontColor=39ff14&text=BUILD.%20BREAK.%20REBUILD.&fontSize=34&fontAlignY=55&animation=twinkling&desc=AI%20%7C%20Data%20%7C%20Automation%20%7C%20Systems&descSize=16&descAlignY=76" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=800&color=39FF14&center=true&vCenter=true&width=760&lines=Engineering+AI+systems+that+ship.;Building+agentic+%26+data-driven+products.;Turning+messy+workflows+into+deterministic+systems.;Hackathon+winner+%7C+Patent+holder+%7C+Founder." alt="Typing SVG" />
+
+<br/>
+
+<a href="https://github.com/KING-OF-FLAME">
+<img src="https://komarev.com/ghpvc/?username=king-of-flame&label=PROFILE+VIEWS&color=39ff14&style=for-the-badge" alt="Profile views"/>
+</a>
+<a href="https://github.com/KING-OF-FLAME?tab=followers">
+<img src="https://img.shields.io/github/followers/KING-OF-FLAME?label=FOLLOWERS&style=for-the-badge&color=111111&labelColor=0b0f0c" alt="Followers"/>
+</a>
+<a href="https://github.com/KING-OF-FLAME">
+<img src="https://img.shields.io/github/stars/KING-OF-FLAME?affiliations=OWNER&style=for-the-badge&color=39ff14&labelColor=0b0f0c&label=REPO+STARS" alt="Repo stars"/>
+</a>
+
 </div>
 
-<br />
+> whoami
+
+Yash Raj
+├── B.Tech — Artificial Intelligence & Data Science
+├── CGPA ........................ 8.4 / 10
+├── Based in .................... Pune, India
+├── Focus ....................... AI • ML • Agentic Systems • Data • Automation
+├── Founder ..................... Grow On Media
+├── Patent ....................... Indian Utility Patent 202621017626
+├── Hack4Humanity 2026 .......... 1st Prize
+└── SIH 2026 .................... Internal Round Winner
+
+I build practical systems where AI meets real workflows — from deterministic memory and multi-agent orchestration to computer vision, IoT monitoring, security analytics, and automation.
+
+My engineering mindset is simple:
+
+Less hype. More shipped systems.
+
+// CURRENTLY BUILDING
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+🧠 StateJar
+
+Deterministic Memory for AI
+
+Patent-backed architecture for structured, replayable, auditable state handling in multi-session conversational systems.
+
+48.9% fewer context tokens/turn • 704 passing tests • FastAPI + MySQL + React
+
+</td>
+<td width="45%" valign="top">
+
+⚖️ The Jury
+
+AI Courtroom
+
+A multi-agent consensus engine where AI agents propose → criticize → judge before a final answer is committed.
+
+LangGraph • LangChain • FastAPI • MySQL
+
+</td>
+</tr>
+</table>
+
+// PROOF OF WORK
+
+🏆 Achievements
+
+Year
+
+Achievement
+
+Proof
+
+2026
+
+🥇 Hack4Humanity — 1st Prize Winner
+
+BRAIN Foundation × IEEE Pune Section × IEEE SIGHT — AI for Good Track
+
+2026
+
+🇮🇳 Government of India Utility Patent
+
+App. No. 202621017626 — Deterministic State-Handle Based Memory for Multi-Session Conversational Systems
+
+2026
+
+🏆 Smart India Hackathon — Internal Round Winner
+
+Selected as the winning team in the internal round for SIH 2026
+
+2025
+
+🥇 National Level Ideathon — Winner
+
+Shalaka Foundations × Keystone School of Engineering, Pune
+
+2025
+
+📚 Taylor & Francis (CRC Press) — Book Chapter
+
+Intelligent Analytics for Environmental Sustainability & Energy Optimization
+
+2025
+
+📚 Nova Publications — Book Chapter
+
+The Impact of Artificial Intelligence on the Indian Economy
+
+2025
+
+📖 Notion Press — Book Chapter
+
+Aquabot: Smart River Clean-up With AI & Solar Tech Using Metal Nanotechnology
+
+// SELECTED SYSTEMS
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+🧠 StateJar
+
+Deterministic Memory for AI
+
+Patent-backed 10-module automation pipeline replacing repetitive manual state handling with deterministic and auditable workflows.
+
+Stack: FastAPI MySQL React LLM Integration
+Metric: 48.9% fewer context tokens/turn
+Tests: 704 passing
+
+<a href="https://github.com/KING-OF-FLAME/statejar">↗ View Repository</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+⚖️ The Jury: AI Courtroom
+
+Adversarial multi-agent AI system with a Proposer → Critic → Judge workflow, async execution, persistent memory, and real-time API cost auditing.
+
+Stack: FastAPI LangGraph LangChain MySQL
+Core idea: AI agents validate AI agents.
+
+<a href="https://github.com/KING-OF-FLAME/the-jury-ai-courtroom">↗ View Repository</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+🌾 DhartiQ
+
+AI Assistant for Farmers
+
+Multilingual RAG-powered support bot with voice + text interaction designed for non-technical end users.
+
+Stack: Python RAG LLM Telegram Bot API
+
+<a href="https://github.com/KING-OF-FLAME/dhartiq">↗ View Repository</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+👁️ Brain Tumor MRI Classification
+
+Transfer-learning pipeline using ResNet-18 for a 4-class MRI classification task with augmentation, class weighting, and confusion-matrix analysis.
+
+Stack: PyTorch ResNet-18 Computer Vision
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+🛡️ Phishing URL Detection
+
+Security classifier using 30+ lexical + structural URL features, Random Forest, and SHAP for explainable threat detection.
+
+Stack: R Random Forest NLP SHAP
+
+</td>
+
+<td width="50%" valign="top">
+
+📬 Email Deliverability Intelligence API
+
+Evaluates SPF, DKIM, DMARC and other domain signals through a weighted risk model for inbox-placement prediction.
+
+Stack: PHP DNS SPF DKIM DMARC
+
+<a href="https://github.com/KING-OF-FLAME/email-deliverability-intelligence-api">↗ View Repository</a>
+
+</td>
+</tr>
+</table>
+
+// TECH ARSENAL
+
+AI / ML
+
+<p>
+<img src="https://img.shields.io/badge/PyTorch-111111?style=for-the-badge&logo=pytorch&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/scikit--learn-111111?style=for-the-badge&logo=scikitlearn&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/NLP-111111?style=for-the-badge&logo=probot&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/Computer_Vision-111111?style=for-the-badge&logo=opencv&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/RAG-111111?style=for-the-badge&logo=bookstack&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/Agentic_AI-111111?style=for-the-badge&logo=robotframework&logoColor=39FF14"/>
+</p>
+
+Engineering
+
+<p>
+<img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=mysql&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/C%2B%2B-111111?style=for-the-badge&logo=cplusplus&logoColor=39FF14"/>
+</p>
+
+Infrastructure / Tools
+
+<p>
+<img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/Railway-111111?style=for-the-badge&logo=railway&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=39FF14"/>
+</p>
+
+// ENGINEERING EXPERIENCE
+
+🚀 Founder & CEO — Grow On Media
+
+2021 → 2025
+
+Bootstrapped and scaled a remote-first digital marketing agency to 25+ clients, acting as the primary technical point of contact for software, platform access, user accounts, and operational issues.
+
+Built campaign analytics systems that delivered a 40% measurable increase in client engagement, while creating SOPs, onboarding guides, and troubleshooting documentation.
+
+📊 Data Science Intern — Prodigy InfoTech
+
+Apr 2024 → May 2024
+
+Developed and validated end-to-end classification + regression pipelines in Python, with documented performance reports delivered under recurring deadlines.
+
+🐍 Python Intern — Engineer Core
+
+Mar 2024 → Apr 2024
+
+Built an internal automation tool that aggregated Google + YouTube autocomplete signals, replacing a manual research workflow.
+
+// LEADERSHIP
+
+CLASS REPRESENTATIVE
+Ajeenkya D Y Patil University
+└── Primary liaison for a 64-student cohort
+    ├── Faculty coordination
+    ├── Student issue escalation
+    └── Academic communication
+
+CLUB SECRETARY
+DSAC — Data Structures & Algorithms Club
+└── Directed a 50+ member technical community
+    ├── Workshops
+    ├── Mock coding contests
+    └── Inter-college events
+
+// GITHUB ACTIVITY
 
 <div align="center">
-  <table border="0" width="100%" style="border-collapse: collapse;">
-    <tr>
-      <td width="60%" valign="center" style="padding-right: 20px;">
-        <h1>Hi there , I'm Yash Raj.</h1>
-        <h3>A Results-Driven AI & Data Science Professional from India 🇮🇳</h3>
-        <p style="font-size: 1.1em; color: #c9d1d9; line-height: 1.6;">
-           I am an <b>AI Engineer, Data Scientist, and Entrepreneur</b> with a proven track record of developing innovative AI-powered solutions. With expertise in Python programming, machine learning, and IoT, I build intelligent systems that solve real-world problems and drive business growth.
-        </p>
-        <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=58A6FF&width=600&lines=Developing+Innovative+AI+Solutions;Building+Scalable+Data-Driven+Products;Integrating+IoT+for+Smart+Automation;Leading+Teams+to+Success;Winning+National-Level+Competitions" alt="Typing Animation" />
-        </a>
-        <br/>
-        <img src="https://komarev.com/ghpvc/?username=king-of-flame&label=PROFILE%20VIEWS&color=238636&style=for-the-badge" alt="Profile Views" />
-      </td>
-      <td width="40%" align="center">
-        <div style="position: relative; display: inline-block;">
-          <div style="position: absolute; top: -5px; left: -5px; right: -5px; bottom: -5px; background: linear-gradient(45deg, #58A6FF, #238636, #58A6FF); border-radius: 50%; z-index: -1; filter: blur(10px); opacity: 0.7;"></div>
-          <img src="https://i.ibb.co/JRzs2rqj/494955232-17989459916810789-3567602734850394268-n-1.jpg" width="220" height="220" style="border-radius: 50%; border: 3px solid #0D1117; box-shadow: 0 0 20px rgba(88, 166, 255, 0.4);" alt="Yash Raj">
-        </div>
-      </td>
-    </tr>
-  </table>
+
+<img src="https://github-readme-stats.vercel.app/api?username=KING-OF-FLAME&show_icons=true&hide_border=true&bg_color=0B0F0C&title_color=39FF14&icon_color=39FF14&text_color=C9D1D9&ring_color=39FF14&cache_seconds=1800" height="175"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KING-OF-FLAME&layout=compact&hide_border=true&bg_color=0B0F0C&title_color=39FF14&text_color=C9D1D9&cache_seconds=1800" height="175"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KING-OF-FLAME&hide_border=true&background=0B0F0C&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=C9D1D9&dates=8B949E" width="65%" />
+
 </div>
 
----
-
-### 🚀 Summary
-
-I am a results-driven professional with **5 years of experience** in Digital Marketing, **4 years of experience in Web Development**, and **Data Analytics**. My journey is defined by a passion for leveraging technology to create impactful solutions. As the **Founder and CEO of Grow On Media**, I successfully scaled a digital marketing agency, increasing client engagement by 40% and generating 6-figure revenue.
-
-My technical expertise lies in **Python programming, Machine Learning, and developing IoT applications**, which I have applied in various projects, including winning national-level competitions. 
-
----
-
-### ⚡ My Focus & Expertise
-
-My work revolves around creating intelligent systems that bridge the gap between data and actionable insights.
+// CONTRIBUTION SNAKE
 
 <div align="center">
-  <table border="0" width="95%">
-    <tr>
-      <td width="33%" align="center" style="padding: 20px; border: 1px solid #30363d; border-radius: 15px; background-color: #0d1117;">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="AI & Machine Learning" width="60" /><br/>
-        <h3 style="margin-bottom: 10px;">AI & Machine Learning</h3>
-        <p style="font-size: 0.95em; color: #8b949e;">Developing and implementing machine learning algorithms for predictive analytics and building NLP-based solutions.</p>
-      </td>
-      <td width="33%" align="center" style="padding: 20px; border: 1px solid #30363d; border-radius: 15px; background-color: #0d1117;">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="IoT & Smart Automation" width="60" /><br/>
-        <h3 style="margin-bottom: 10px;">IoT & Smart Automation</h3>
-        <p style="font-size: 0.95em; color: #8b949e;">Engineering automated systems using Raspberry Pi, ESP32, and Arduino for real-time monitoring and control.</p>
-      </td>
-      <td width="33%" align="center" style="padding: 20px; border: 1px solid #30363d; border-radius: 15px; background-color: #0d1117;">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Data Science & Analytics" width="60" /><br/>
-        <h3 style="margin-bottom: 10px;">Data Science & Analytics</h3>
-        <p style="font-size: 0.95em; color: #8b949e;">Conducting exploratory data analysis and creating interactive data visualization dashboards to identify trends and insights.</p>
-      </td>
-    </tr>
-  </table>
+
+
+
 </div>
 
----
+// CERTIFICATIONS
 
-### 🛠️ My Premium Toolkit
+Introduction to Data Science • Programming using Java • Arduino Based Automation • DROP Certified Security Course • Fundamentals of Information Security
 
-I possess a diverse and robust set of technical skills that enable me to build end-to-end solutions.
-
-| **Category** | **Skills** |
-| :--- | :--- |
-| **Programming Languages** | Python, SQL, Java, JavaScript, PHP, HTML, CSS |
-| **AI & Data Science** | Machine Learning, Data Analytics, Natural Language Processing (NLP), Data Visualization |
-| **IoT & Hardware** | Raspberry Pi, ESP32, Arduino, Sensor Integration, Automation Systems |
-| **Tools & Platforms** | Git, GitHub, TensorFlow, Data Analysis Libraries, Cloud Computing |
+// LET'S CONNECT
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-  <br/>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <br/>
-  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-%23A22846.svg?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" alt="Raspberry Pi" />
+
+<a href="https://linkedin.com/in/yash-developer">
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=39FF14"/>
+</a>
+<a href="mailto:mr.yashraj5233@gmail.com">
+<img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=39FF14"/>
+</a>
+<a href="https://iamyashraj.com">
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=39FF14"/>
+</a>
+<a href="https://github.com/KING-OF-FLAME">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=39FF14"/>
+</a>
+
+<br/><br/>
+
+Build something worth remembering. 🐍
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0b0f0c&fontColor=39ff14&animation=twinkling" width="100%"/>
+
 </div>
-
----
-
-### 🏆 Key Projects & Achievements
-
-My portfolio showcases my ability to apply theoretical knowledge to practical problems, resulting in award-winning and impactful solutions.
-
-* **National Level Ideathon Winner** at Shalaka Foundations Keystone School of Engineering, Pune.
-
-#### **Featured Projects:**
-
-* **The Jury: The AI Courtroom (2026):** Designed and built an adversarial multi-agent AI consensus engine that forces LLMs to debate, cross-examine, and judge each other to reduce hallucinations and improve answer reliability. Features a Proposer–Critic–Judge architecture, real-time “God Mode” dashboard, persistent MySQL memory for verdict precedents, and exact API cost auditing. Built with FastAPI, Streamlit, and OpenRouter.
-    <br/> [<img src="https://img.shields.io/badge/GitHub-Repo-blue?style=flat-square&logo=github" />](https://github.com/KING-OF-FLAME/the-jury-ai-courtroom)
-
-* **URL Metadata & Preview API (2025):** Engineered a high-performance PHP API that extracts OpenGraph tags, SEO details, and technical metrics (latency, page size) from any URL in under 800ms. Optimized for shared hosting with custom cURL timeouts and smart fallbacks.
-    <br/> [<img src="https://img.shields.io/badge/GitHub-Repo-blue?style=flat-square&logo=github" />](https://github.com/KING-OF-FLAME/url-metadata-api)
-
-* **Email Deliverability Intelligence API (2025):** Built a comprehensive email analysis engine that evaluates domain infrastructure (SPF, DKIM, DMARC) and reputation signals to predict inbox placement. Features a custom weighted risk-scoring algorithm and disposable email detection.
-    <br/> [<img src="https://img.shields.io/badge/GitHub-Repo-blue?style=flat-square&logo=github" />](https://github.com/KING-OF-FLAME/email-deliverability-intelligence-api)
-
-* **Automated Keyword Suggestions Tool (2025):** Developed an SEO automation tool that aggregates real-time trending search queries from Google and YouTube Autocomplete. Designed for content creators to identify high-volume keywords with zero manual effort.
-    <br/> [<img src="https://img.shields.io/badge/GitHub-Repo-blue?style=flat-square&logo=github" />](https://github.com/KING-OF-FLAME/keyword_suggestions_tool)
-
-
----
-
-### 📜 Certifications
-
-I am dedicated to staying at the forefront of technology through continuous learning.
-
-* **Introduction to Data Science (2024)**
-* **Programming using Java (2024)**
-* **Arduino Based Automation (2023)**
-* **DROP Certified Security Course (2021)**
-* **Fundamentals of Information Security (2021)**
-
----
-
-### 🌐 Let's Connect
-
-I am always open to collaborating on exciting projects in the fields of AI, IoT, and Data Science. Feel free to reach out!
-
-<div align="center">
-  <a href="https://linkedin.com/in/yash-developer" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp; &nbsp;
-  <a href="https://instagram.com/yash.developer" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  &nbsp; &nbsp;
-  <a href="mailto:mr.yashraj5233@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp; &nbsp;
-  <a href="https://iamyashraj.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="Portfolio" />
-  </a>
-</div>
-
-<br /><br />
