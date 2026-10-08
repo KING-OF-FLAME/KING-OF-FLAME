@@ -1,75 +1,106 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Yash Raj" width="100%"/>
+<img src="./assets/banner.svg" alt="Yash Raj, Founder of StateJar. AI researcher and robotics builder." width="100%"/>
 
 <br/>
 
-[LinkedIn](https://linkedin.com/in/yash-developer) &nbsp;·&nbsp; [StateJar](https://statejar.com) &nbsp;·&nbsp; [Email](mailto:mr.yashraj5233@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yash--developer-0a0d14?style=flat-square&logo=linkedin&logoColor=d4b36a&labelColor=121624)](https://linkedin.com/in/yash-developer)
+[![StateJar](https://img.shields.io/badge/StateJar-statejar.com-0a0d14?style=flat-square&logo=databricks&logoColor=d4b36a&labelColor=121624)](https://statejar.com)
+[![Email](https://img.shields.io/badge/Email-mr.yashraj5233-0a0d14?style=flat-square&logo=gmail&logoColor=d4b36a&labelColor=121624)](mailto:mr.yashraj5233@gmail.com)
 
 </div>
 
 <br/>
 
-I design AI systems that remember reliably and act predictably. My work spans LLM memory, multi-agent validation, retrieval, and embedded robotics. I am a final-year B.Tech student in AI and Data Science at ADYPU, Pune, and the founder of Grow On Media.
+> **Founder. Researcher. Builder of machines that think and machines that move.**
+>
+> I design AI systems that remember reliably and act predictably: LLM memory, multi-agent validation, retrieval, and embedded robotics. Final-year B.Tech in AI and Data Science at ADYPU, Pune. Founder of **StateJar** and **Grow On Media**.
 
 <br/>
 
-## Flagship work
+<img src="./assets/h1.svg" alt="01 Flagship Work" width="100%"/>
 
-**[StateJar](https://statejar.com)** is a deterministic memory layer for multi-session conversational AI. It replaces full chat history with structured state handles.
+**[StateJar](https://statejar.com)** is a deterministic memory layer for multi-session conversational AI. Instead of replaying full chat history, it gives the model structured state handles.
 
 | | |
 |---|---|
-| Architecture | 10-module deterministic state pipeline |
-| Efficiency | 48.9% fewer context tokens per turn (benchmarked) |
-| Reliability | 704 passing tests, append-only versioning, replayable audit logs |
-| Stack | FastAPI, MySQL, React, Railway, Vercel |
-| Patent | Indian application 202621017626, published April 2026 |
+| **Architecture** | 10-module deterministic state pipeline |
+| **Efficiency** | 48.9% fewer context tokens per turn (benchmarked) |
+| **Reliability** | 704 passing tests, append-only versioning, replayable audit logs |
+| **Stack** | FastAPI, MySQL, React, Railway, Vercel |
+| **Patent** | Indian application 202621017626, published April 2026 |
 
 <br/>
 
-## Recognition
+<img src="./assets/h2.svg" alt="02 Recognition" width="100%"/>
 
-| Year | Honour |
-|---|---|
-| 2026 | **First Prize**, Hack4Humanity (AI for Good), BRAIN Foundation, IEEE Pune Section, IEEE SIGHT |
-| 2026, 2025 | **Winner**, Smart India Hackathon internal rounds (team lead) |
-| 2025 | **Winner**, National Level Ideathon, Keystone School of Engineering |
-
-<br/>
-
-## Publications
-
-- *Intelligent Analytics for Environmental Sustainability and Energy Optimization*, CRC Press (Taylor & Francis), 2026
-- *The Impact of AI in the Indian Economy*, Progress in Economics Research, Nova Publications, 2025
-- *Aquabot: Smart River Clean-up with AI and Solar Tech*, Notion Press, 2025
-
-<br/>
-
-## Selected projects
-
-| Project | Description | Stack |
+| Year | Honour | Role |
 |---|---|---|
-| The Jury | Proposer, Critic and Judge agents debate to reduce hallucinations, with live cost auditing | FastAPI, LangGraph, MySQL |
-| Brain Tumor MRI Classifier | ResNet-18 fine-tuned on four-class MRI with class-imbalance handling | PyTorch, Gradio |
-| DhartiQ | Multilingual voice and text RAG advisory assistant for marginal farmers | Python, LLM, RAG |
-| Predictive Maintenance | Real-time failure-probability dashboard on IoT sensor data | R, Shiny, ESP32 |
-| Email Deliverability API | SPF, DKIM and DMARC analysis with a weighted risk model | PHP, DNS |
-| Textbook of Tomorrow | Browser extension that turns LMS content into explanations and quizzes | JavaScript, LLM |
-| Robotics and IoT | Obstacle-avoiding ESP32 vehicle, smart blind stick, fire and smoke detection | ESP32, Pi Pico |
+| 2026 | 🏆 **First Prize**, Hack4Humanity (AI for Good), BRAIN Foundation, IEEE Pune Section, IEEE SIGHT | Team lead |
+| 2026 | 🏆 **Winner**, Smart India Hackathon, internal round | Team lead |
+| 2025 | 🏆 **Winner**, National Level Ideathon, Keystone School of Engineering | Team lead |
+| 2025 | 🏆 **Winner**, Smart India Hackathon, internal round | Team member |
 
 <br/>
 
-## Technical stack
+<img src="./assets/h3.svg" alt="03 Publications" width="100%"/>
 
-**Languages** &nbsp; Python, SQL, R, Java, C++, JavaScript, PHP
-**AI and ML** &nbsp; PyTorch, TensorFlow, scikit-learn, LangChain, LangGraph, RAG, Qdrant
-**Backend and infra** &nbsp; FastAPI, MySQL, Docker, Linux, AWS, Railway, Vercel
-**Embedded** &nbsp; ESP32, Arduino, Raspberry Pi Pico
+- 📘 *Intelligent Analytics for Environmental Sustainability and Energy Optimization*, CRC Press (Taylor & Francis), 2026
+- 📄 *The Impact of AI in the Indian Economy*, Progress in Economics Research, Nova Publications, 2025
+- 📗 *Aquabot: Smart River Clean-up with AI and Solar Tech*, Notion Press, 2025
+- 📜 **Patent**: StateJar deterministic memory layer, Indian application 202621017626, 2026
 
 <br/>
 
-## Contact
+<img src="./assets/h4.svg" alt="04 Selected Projects" width="100%"/>
 
-Open to research collaborations and AI engineering opportunities.
-[linkedin.com/in/yash-developer](https://linkedin.com/in/yash-developer) &nbsp;·&nbsp; [mr.yashraj5233@gmail.com](mailto:mr.yashraj5233@gmail.com)
+| Project | What it does | Stack |
+|---|---|---|
+| ⚖️ **The Jury** | Proposer, Critic and Judge agents debate to cut hallucinations, with live cost auditing | FastAPI, LangGraph, MySQL |
+| 🧠 **Brain Tumor MRI Classifier** | ResNet-18 fine-tuned on four-class MRI with class-imbalance handling | PyTorch, Gradio |
+| 🌾 **DhartiQ** | Multilingual voice and text RAG advisor for marginal farmers | Python, LLM, RAG |
+| ⚙️ **Predictive Maintenance** | Real-time failure-probability dashboard on IoT sensor data | R, Shiny, ESP32 |
+| ✉️ **Email Deliverability API** | SPF, DKIM and DMARC analysis with a weighted risk model | PHP, DNS |
+| 📚 **Textbook of Tomorrow** | Browser extension that turns LMS content into explanations and quizzes | JavaScript, LLM |
+| 🤖 **Robotics and IoT** | Obstacle-avoiding ESP32 vehicle, smart blind stick, fire and smoke detection | ESP32, Pi Pico |
+
+<br/>
+
+<img src="./assets/h5.svg" alt="05 Technical Stack" width="100%"/>
+
+<div align="center">
+
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,php,r,mysql&theme=dark" alt="Languages"/>
+
+**AI and ML**<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" alt="AI and ML"/><br/>
+<sub>LangChain · LangGraph · RAG · Qdrant</sub>
+
+**Backend and Infra**<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,react,docker,linux,aws,vercel&theme=dark" alt="Backend and Infra"/><br/>
+<sub>Railway</sub>
+
+**Embedded and Robotics**<br/>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" alt="Embedded"/><br/>
+<sub>ESP32 · Arduino · Raspberry Pi Pico</sub>
+
+</div>
+
+<br/>
+
+<img src="./assets/h6.svg" alt="06 GitHub Activity" width="100%"/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KING-OF-FLAME&bg_color=0a0d14&color=f3efe6&line=d4b36a&point=e6cb8f&area=true&area_color=6d5cff&hide_border=true&radius=10" alt="GitHub activity graph" width="100%"/>
+
+</div>
+
+<br/>
+
+<img src="./assets/h7.svg" alt="07 Contact" width="100%"/>
+
+Open to research collaborations, robotics builds and AI engineering roles.
+
+**[linkedin.com/in/yash-developer](https://linkedin.com/in/yash-developer)** &nbsp;·&nbsp; **[mr.yashraj5233@gmail.com](mailto:mr.yashraj5233@gmail.com)** &nbsp;·&nbsp; **[statejar.com](https://statejar.com)**

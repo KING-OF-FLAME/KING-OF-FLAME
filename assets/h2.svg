@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 64" width="1000" height="64" role="img" aria-label="02 Recognition"><defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a0d14"/><stop offset="1" stop-color="#121624"/></linearGradient>
+<linearGradient id="gold" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#e6cb8f"/><stop offset="1" stop-color="#9b7f3e"/></linearGradient>
+<radialGradient id="vio" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#6d5cff" stop-opacity=".22"/><stop offset="1" stop-color="#6d5cff" stop-opacity="0"/></radialGradient>
+<radialGradient id="amb" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#d4b36a" stop-opacity=".18"/><stop offset="1" stop-color="#d4b36a" stop-opacity="0"/></radialGradient>
+<linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".055"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#fff" stroke-opacity=".03"/></pattern>
+</defs>
+<rect width="1000" height="64" rx="10" fill="url(#bg)"/>
+<rect width="1000" height="64" rx="10" fill="url(#grid)"/>
+<rect x="0" y="16" width="3" height="32" fill="url(#gold)"/>
+<text x="24" y="40" font-family="Consolas,Menlo,'Courier New',monospace" font-size="13" fill="#d4b36a" letter-spacing="3">02</text>
+<text x="70" y="42" font-family="Georgia,'Times New Roman',serif" font-size="28" fill="#f3efe6">Recognition</text>
+<line x1="253.5" y1="32" x2="940" y2="32" stroke="#fff" stroke-opacity=".1"/>
+<rect x="253.5" y="31" width="60" height="2" fill="url(#gold)"/>
+<circle cx="958" cy="32" r="3" fill="#d4b36a"><animate attributeName="opacity" values="1;.25;1" dur="2.4s" repeatCount="indefinite"/></circle>
+</svg>
