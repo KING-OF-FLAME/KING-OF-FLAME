@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220" width="1200" height="220" role="img" aria-label="Yash Raj. Founder, researcher, robotics. Building intelligence that remembers."><defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a0d14"/><stop offset="1" stop-color="#121624"/></linearGradient>
+<linearGradient id="gold" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#e6cb8f"/><stop offset="1" stop-color="#9b7f3e"/></linearGradient>
+<radialGradient id="vio" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#6d5cff" stop-opacity=".22"/><stop offset="1" stop-color="#6d5cff" stop-opacity="0"/></radialGradient>
+<radialGradient id="amb" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#d4b36a" stop-opacity=".18"/><stop offset="1" stop-color="#d4b36a" stop-opacity="0"/></radialGradient>
+<linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".055"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#fff" stroke-opacity=".03"/></pattern>
+
+<clipPath id="frame"><rect width="1200" height="220" rx="20"/></clipPath>
+</defs>
+<g clip-path="url(#frame)">
+<rect width="1200" height="220" fill="url(#bg)"/>
+<rect width="1200" height="220" fill="url(#grid)"/>
+<circle cx="180" cy="20" r="260" fill="url(#amb)"/>
+<circle cx="980" cy="120" r="260" fill="url(#vio)"/>
+<rect x="-400" y="0" width="400" height="220" fill="url(#sweep)"><animate attributeName="x" values="-400;1200" dur="7s" repeatCount="indefinite"/></rect>
+</g>
+<rect x=".5" y=".5" width="1199" height="219" rx="20" fill="none" stroke="#fff" stroke-opacity=".08"/>
+<text x="60" y="58" font-family="Consolas,Menlo,'Courier New',monospace" font-size="13" letter-spacing="4" fill="#d4b36a">// FOUNDER · RESEARCHER · ROBOTICS</text>
+<text x="56" y="138" font-family="Georgia,'Times New Roman',serif" font-size="76" fill="#f3efe6">Yash Raj<tspan fill="#d4b36a">.</tspan></text>
+<text x="60" y="180" font-family="Georgia,'Times New Roman',serif" font-size="22" font-style="italic" fill="#c9c4b8">Building intelligence that remembers<tspan fill="#d4b36a"><animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/>_</tspan></text>
+<rect x="760" y="44" width="390" height="140" rx="12" fill="#0a0d14" fill-opacity=".7" stroke="#fff" stroke-opacity=".08"/>
+<g fill="#ff5f57"><circle cx="778" cy="58" r="4"/></g><circle cx="792" cy="58" r="4" fill="#febc2e"/><circle cx="806" cy="58" r="4" fill="#28c840"/>
+<text x="1136" y="62" text-anchor="end" font-family="Consolas,Menlo,'Courier New',monospace" font-size="10" letter-spacing="2" fill="#7d8496">STATEJAR.SH</text>
+<g font-family="Consolas,Menlo,'Courier New',monospace" font-size="13" fill="#c9c4b8" transform="translate(0 16)"><g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.062;0.087;.94;1" dur="8s" repeatCount="indefinite"/><text x="790" y="78"><tspan fill="#d4b36a">&gt;</tspan> agents.online()</text><text x="1120" y="78" text-anchor="end" fill="#5fd38d">3 ready ✓</text></g><g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.150;0.175;.94;1" dur="8s" repeatCount="indefinite"/><text x="790" y="104"><tspan fill="#d4b36a">&gt;</tspan> memory.persist()</text><text x="1120" y="104" text-anchor="end" fill="#5fd38d">ok ✓</text></g><g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.237;0.263;.94;1" dur="8s" repeatCount="indefinite"/><text x="790" y="130"><tspan fill="#d4b36a">&gt;</tspan> robots.boot()</text><text x="1120" y="130" text-anchor="end" fill="#5fd38d">esp32 up ✓</text></g><g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.325;0.350;.94;1" dur="8s" repeatCount="indefinite"/><text x="790" y="156"><tspan fill="#d4b36a">&gt;</tspan> research.run()</text><text x="1120" y="156" text-anchor="end" fill="#5fd38d">live ✓</text></g></g>
+</svg>

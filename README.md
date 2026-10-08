@@ -1,6 +1,11 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Yash Raj, Founder of StateJar. AI researcher and robotics builder." width="100%"/>
+<img src="./assets/header.svg" alt="Yash Raj. Founder, researcher, robotics." width="100%"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KING-OF-FLAME/KING-OF-FLAME/output/snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/KING-OF-FLAME/KING-OF-FLAME/output/snake-light.svg" alt="Contribution snake game" width="100%"/>
+</picture>
 
 <br/>
 
@@ -63,9 +68,10 @@ I design AI systems that remember reliably and act predictably: LLM memory, mult
 
 | Project | What it does | Stack |
 |---|---|---|
+| 🫙 **[StateJar](https://statejar.com)** | Deterministic memory layer for multi-session AI, 48.9% fewer context tokens, patent published | FastAPI, MySQL, React |
+| 🌾 **DhartiQ** | Multilingual voice and text RAG advisor for marginal farmers | Python, LLM, RAG |
 | ⚖️ **The Jury** | Proposer, Critic and Judge agents debate to cut hallucinations, with live cost auditing | FastAPI, LangGraph, MySQL |
 | 🧠 **Brain Tumor MRI Classifier** | ResNet-18 fine-tuned on four-class MRI with class-imbalance handling | PyTorch, Gradio |
-| 🌾 **DhartiQ** | Multilingual voice and text RAG advisor for marginal farmers | Python, LLM, RAG |
 | ⚙️ **Predictive Maintenance** | Real-time failure-probability dashboard on IoT sensor data | R, Shiny, ESP32 |
 | ✉️ **Email Deliverability API** | SPF, DKIM and DMARC analysis with a weighted risk model | PHP, DNS |
 | 📚 **Textbook of Tomorrow** | Browser extension that turns LMS content into explanations and quizzes | JavaScript, LLM |
@@ -96,21 +102,21 @@ I design AI systems that remember reliably and act predictably: LLM memory, mult
 
 <br/>
 
-<img src="./assets/h6.svg" alt="06 GitHub Activity" width="100%"/>
+<img src="./assets/h6.svg" alt="06 Contact" width="100%"/>
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KING-OF-FLAME/KING-OF-FLAME/output/snake-dark.svg"/>
-  <img src="https://raw.githubusercontent.com/KING-OF-FLAME/KING-OF-FLAME/output/snake-light.svg" alt="Contribution graph" width="100%"/>
-</picture>
-
-</div>
+Open to research collaborations, robotics builds and AI engineering roles.
 
 <br/>
 
-<img src="./assets/h7.svg" alt="07 Contact" width="100%"/>
+<a href="https://linkedin.com/in/yash-developer"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:mr.yashraj5233@gmail.com"><img src="https://img.shields.io/badge/Email-Write%20to%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://statejar.com"><img src="https://img.shields.io/badge/StateJar-Visit-d4b36a?style=for-the-badge&logo=googlechrome&logoColor=0a0d14" alt="StateJar"/></a>
+<a href="https://github.com/KING-OF-FLAME"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
-Open to research collaborations, robotics builds and AI engineering roles.
+<br/><br/>
 
-**[linkedin.com/in/yash-developer](https://linkedin.com/in/yash-developer)** &nbsp;·&nbsp; **[mr.yashraj5233@gmail.com](mailto:mr.yashraj5233@gmail.com)** &nbsp;·&nbsp; **[statejar.com](https://statejar.com)**
+<img src="./assets/footer.svg" alt="Two AI agents playing pong in a research lab" width="100%"/>
+
+</div>
