@@ -1,77 +1,127 @@
-<p align="center">
-  <img src="./hero.svg" width="100%" alt="Yash Raj — Founder of StateJar. Building intelligence that remembers." />
-</p>
-<p align="center">
-  <a href="https://statejar.com"><b>STATEJAR</b></a> &nbsp; / &nbsp;
-  <a href="https://www.linkedin.com/in/yash-developer/"><b>LINKEDIN</b></a> &nbsp; / &nbsp;
-  <a href="https://iamyashraj.com"><b>PORTFOLIO</b></a> &nbsp; / &nbsp;
-  <a href="mailto:mr.yashraj5233@gmail.com"><b>EMAIL</b></a>
-</p>
-<p align="center"><img src="./research.svg" width="100%" alt="Research areas: StateJar memory, multi-agent reasoning, applied intelligence" /></p>
-<table>
-<tr>
-<td width="74%" valign="top">
-<h2>AI engineer. Researcher. Founder.</h2>
-<p>I'm <b>Yash Raj</b>, founder of <a href="https://statejar.com"><b>StateJar</b></a>. I build AI systems with a focus on persistent memory, agent orchestration, and the infrastructure that turns an idea into a usable product.</p>
-<p>My work connects research with implementation: conversational memory, multi-agent reasoning, developer APIs, and practical automation.</p>
-<p><b>B.Tech · Artificial Intelligence &amp; Data Science</b><br />Ajeenkya DY Patil University · India</p>
-</td>
-<td width="26%" align="center" valign="middle">
-<img src="./yash-raj.jpg" width="180" alt="Portrait of Yash Raj" />
-<br /><sub>YASH RAJ / KING-OF-FLAME</sub>
-</td>
-</tr>
-</table>
-🧠 StateJar / Memory infrastructure
-StateJar — memory infrastructure for AI
-An AI application should be able to carry useful context beyond a single conversation.
-I'm building StateJar around that problem: persistent, structured memory for LLM applications, with an emphasis on context continuity and developer integration.
-Focus	What I'm building toward
-Memory	Retaining and updating useful information across sessions
-Control	Making stored context manageable and inspectable
-Integration	Bringing memory into applications through APIs and SDKs
-Trust	Treating privacy and access boundaries as engineering requirements
-Python · FastAPI · SQLAlchemy · MySQL · React
-Explore StateJar ↗
-🏆 Recognition / Proof of work
-Year	Recognition	Contribution
-2026	1st Prize · Hack4Humanity	Team lead · AI for Good track
-2026	Smart India Hackathon · Internal winner	Team lead · institute-level selection
-2025	National-level Ideathon · 2nd runner-up	Team lead · Keystone School of Engineering, Pune
-2025	Smart India Hackathon · Internal winner	Institute-level recognition
-Awards and background on LinkedIn ↗
-🔬 Research / Publications & intellectual property
-My research interests span LLM memory, reliable AI systems, and applied intelligence.
-LLM memory architecture — first inventor on a patent application published in India, April 2026.
-Intelligent Analytics for Environmental Sustainability and Energy Optimization — CRC Press, 2026.
-The Impact of AI in the Indian Economy — Progress in Economics Research, Nova Publications, 2025; co-author.
-Aquabot: Smart River Clean-up With AI And Solar Tech Using Metal Nanotechnology — Notion Press, 2025.
-Publication details ↗
-⚙️ Engineering / Selected systems
-Project	Engineering focus
-The Jury: The AI Courtroom	Proposer–Critic–Judge workflows for examining LLM responses through adversarial debate, with persistent verdict history and cost auditing.
-URL Metadata & Preview API	OpenGraph extraction, SEO metadata, and URL preview tooling built for practical hosting constraints.
-Email Deliverability Intelligence API	Email-domain analysis using authentication records, infrastructure signals, and risk scoring.
-Keyword Suggestions Tool	Search-autocomplete aggregation to support content research and SEO workflows.
-🛠️ Stack / Tools I build with
-Layer	Technologies & methods
-AI systems	LLM integration · multi-agent workflows · NLP · machine learning
-Backend & data	Python · FastAPI · SQLAlchemy · MySQL · SQL · PHP
-Product interfaces	React · JavaScript · HTML · CSS
-Applied intelligence	TensorFlow · data analysis · visualization · IoT automation
-Hardware & workflow	ESP32 · Arduino · Raspberry Pi · Git · GitHub
-<details>
-<summary><b>Earlier learning & certifications</b></summary>
-Introduction to Data Science — 2024
-Programming using Java — 2024
-Arduino Based Automation — 2023
-DROP Certified Security Course — 2021
-Fundamentals of Information Security — 2021
-</details>
-🚀 Founder / From idea to implementation
-Alongside StateJar, I'm the Founder & CEO of Grow On Media. Building a business has shaped how I approach engineering: understand the user's problem, make the system useful, and keep improving it after launch.
-I'm interested in AI engineering, research collaborations, and developer tools—especially work involving memory, agents, and dependable AI applications.
-Have a problem worth building for? Let's talk.
+<div align="center">
+
+<img src="./assets/banner.svg" alt="Yash Raj – AI Engineer, Founder, Researcher" width="100%"/>
+
+<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=FF3D81&center=true&vCenter=true&width=700&lines=Building+memory+for+machines;Deterministic+AI+%7C+Agents+%7C+Robotics;Patent+%C2%B7+Papers+%C2%B7+Hackathon+wins;Open+to+research+%26+AI+engineering+roles" alt="Typing SVG"/></a>
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yash--developer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-developer)
+[![Email](https://img.shields.io/badge/Email-mr.yashraj5233-ff3d81?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mr.yashraj5233@gmail.com)
+[![StateJar](https://img.shields.io/badge/Live-statejar.com-ffb347?style=for-the-badge&logo=vercel&logoColor=black)](https://statejar.com)
+
+</div>
+
 ---
-<p align="center"><sub><b>YASH RAJ</b> &nbsp; · &nbsp; Research with purpose. Engineering with ownership.</sub></p>
-<p align="center"><img src="./footer.svg" width="100%" alt="Let’s build something worth remembering" /></p>
+
+## 🔥 About
+
+I'm a final-year **B.Tech (AI & Data Science)** student at ADYPU, Pune, and the founder of **Grow On Media**. I work on AI systems that *remember reliably*, agents that *argue before they answer*, and hardware that *acts in the real world*.
+
+```python
+class YashRaj:
+    role     = ["AI Engineer", "Founder", "Researcher", "Published Author"]
+    focus    = ["LLM memory", "Multi-agent systems", "RAG", "IoT & Robotics"]
+    building = "StateJar: deterministic memory for AI"
+    status   = "Open to collaborations, research & AI engineering roles"
+```
+
+---
+
+## 🚀 Flagship: StateJar
+
+> **Deterministic state-handle memory for multi-session conversational AI.**
+> Replaces full chat history with structured state.
+
+| | |
+|---|---|
+| ⚙️ **Architecture** | 10-module deterministic state pipeline |
+| 📉 **Result** | **48.9% fewer context tokens per turn** (benchmarked) |
+| ✅ **Quality** | **704 passing tests**, append-only versioning, replayable audit logs |
+| 🧱 **Stack** | FastAPI · MySQL · React · Railway · Vercel |
+| 📜 **IP** | Indian Patent Application **202621017626** (published Apr 2026) |
+
+🌐 **Live:** [statejar.com](https://statejar.com)
+
+---
+
+## 🏆 Mission Log
+
+| Record | When | Detail |
+|---|---|---|
+| 🥇 **1st Prize, Hack4Humanity 2026** | Aug 2026 | AI for Good track, by BRAIN Foundation, IEEE Pune Section & IEEE SIGHT. Presented StateJar. |
+| 🏅 **SIH Internal Winner** | 2025 & 2026 | Team Lead, Smart India Hackathon |
+| 🥇 **National Level Ideathon Winner** | Sep 2025 | Keystone School of Engineering, Pune |
+| 📜 **Patent (Published)** | Apr 2026 | *Deterministic State-Handle Based Memory for Multi-Session Conversational Systems* |
+
+---
+
+## 📚 Research & Publications
+
+- **Intelligent Analytics for Environmental Sustainability and Energy Optimization**: CRC Press (Taylor & Francis), Feb 2026
+- **The Impact of AI in the Indian Economy**: *Progress in Economics Research*, Nova Publications, Sep 2025
+- **Aquabot: Smart River Clean-up with AI and Solar Tech**: Notion Press, Mar 2025
+
+---
+
+## 🧪 Selected Projects
+
+| Project | What it does | Tech |
+|---|---|---|
+| ⚖️ **The Jury: AI Courtroom** | Proposer, Critic and Judge agents debate to cut hallucinations; live cost auditing; verdicts stored as reusable "AI precedents" | FastAPI, LangGraph, MySQL, Streamlit |
+| 🧠 **Brain Tumor MRI Classifier** | Fine-tuned ResNet-18 on 4-class MRI, with class-imbalance handling and Gradio demo | PyTorch, Gradio |
+| 🌾 **DhartiQ / AgriPulse** | Multilingual RAG advisory bot (voice + text) for marginal farmers | Python, LLM, RAG, Telegram API |
+| 🏭 **IoT Predictive Maintenance** | Real-time failure-probability dashboard on ESP32 sensor data | R, Shiny, Gradient Boosting |
+| 📨 **Email Deliverability API** | SPF/DKIM/DMARC analysis with a weighted risk model | PHP, DNS |
+| 🔗 **URL Metadata & Preview API** | Millisecond URL parsing into clean JSON | API development |
+| 📖 **Textbook of Tomorrow** | Chrome extension turning LMS content into explanations and quizzes | JavaScript, LLM |
+| 🤖 **Robotics & IoT** | ESP32 obstacle-avoiding vehicle, smart blind stick, fire & smoke detection, plant watering system | ESP32, Pi Pico, NodeMCU |
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-ffb347?style=for-the-badge&logo=python&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-ff3d81?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-ffb347?style=for-the-badge&logo=tensorflow&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-7c4dff?style=for-the-badge&logo=langchain&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-ff3d81?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-7c4dff?style=for-the-badge&logo=react&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-ffb347?style=for-the-badge&logo=mysql&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-ff3d81?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-7c4dff?style=for-the-badge&logo=linux&logoColor=white)
+![R](https://img.shields.io/badge/R-ffb347?style=for-the-badge&logo=r&logoColor=black)
+![Arduino](https://img.shields.io/badge/ESP32%20%2F%20Arduino-ff3d81?style=for-the-badge&logo=arduino&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-7c4dff?style=for-the-badge&logo=railway&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=KING-OF-FLAME&show_icons=true&hide_border=true&bg_color=0a0e1a&title_color=ff3d81&icon_color=ffb347&text_color=c9d1ff" alt="Stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KING-OF-FLAME&layout=compact&hide_border=true&bg_color=0a0e1a&title_color=ff3d81&text_color=c9d1ff" alt="Top languages"/>
+
+<img src="https://streak-stats.demolab.com?user=KING-OF-FLAME&hide_border=true&background=0a0e1a&ring=ff3d81&fire=ffb347&currStreakLabel=ffb347&sideLabels=c9d1ff&currStreakNum=ffffff&sideNums=ffffff&dates=9aa4c7" alt="Streak"/>
+
+</div>
+
+---
+
+## 🤝 Let's Build
+
+Open to **research collaborations, AI engineering roles and internships**.
+
+<div align="center">
+
+[![Connect](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-developer)
+[![Mail](https://img.shields.io/badge/Send_a_Message-ff3d81?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mr.yashraj5233@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,2&height=120&section=footer" width="100%" alt=""/>
+
+</div>
