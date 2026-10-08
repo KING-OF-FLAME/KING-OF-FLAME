@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="Yash Raj. Founder, researcher, robotics." width="100%"/>
+<img src="./assets/header.svg" alt="Yash Raj. AI engineer, founder, researcher." width="100%"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KING-OF-FLAME/KING-OF-FLAME/output/snake-dark.svg"/>
@@ -76,6 +76,10 @@ I design AI systems that remember reliably and act predictably: LLM memory, mult
 | ✉️ **Email Deliverability API** | SPF, DKIM and DMARC analysis with a weighted risk model | PHP, DNS |
 | 📚 **Textbook of Tomorrow** | Browser extension that turns LMS content into explanations and quizzes | JavaScript, LLM |
 | 🤖 **Robotics and IoT** | Obstacle-avoiding ESP32 vehicle, smart blind stick, fire and smoke detection | ESP32, Pi Pico |
+
+<br/>
+
+<img src="./assets/game.svg" alt="Bug Invaders: a cursor ship shooting down bugs in code" width="100%"/>
 
 <br/>
 
