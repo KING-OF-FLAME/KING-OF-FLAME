@@ -12,9 +12,16 @@
 
 <br/>
 
-> **Founder. Researcher. Builder of machines that think and machines that move.**
->
-> I design AI systems that remember reliably and act predictably: LLM memory, multi-agent validation, retrieval, and embedded robotics. Final-year B.Tech in AI and Data Science at ADYPU, Pune. Founder of **StateJar** and **Grow On Media**.
+<table><tr>
+<td width="190" align="center"><img src="./avatar.png" alt="Yash Raj" width="170"/></td>
+<td>
+
+**Founder. Researcher. Builder of machines that think and machines that move.**
+
+I design AI systems that remember reliably and act predictably: LLM memory, multi-agent validation, retrieval, and embedded robotics. Final-year B.Tech in AI and Data Science at ADYPU, Pune. Founder of **StateJar** and **Grow On Media**.
+
+</td>
+</tr></table>
 
 <br/>
 
@@ -93,7 +100,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KING-OF-FLAME&bg_color=0a0d14&color=f3efe6&line=d4b36a&point=e6cb8f&area=true&area_color=6d5cff&hide_border=true&radius=10" alt="GitHub activity graph" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KING-OF-FLAME/KING-OF-FLAME/output/snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/KING-OF-FLAME/KING-OF-FLAME/output/snake-light.svg" alt="Contribution graph" width="100%"/>
+</picture>
 
 </div>
 
